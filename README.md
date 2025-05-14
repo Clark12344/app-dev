@@ -1,4 +1,8 @@
-# my favorite movies
+# app-dev
+My first Repository
+
+My favorite movie
+
 1. The amazing Spider-man
    : Its all about a highschool teenager that got bitten by a radioactive spider and thats give him a superpower where he can climb to the walls and shoot web.
 2. Iron man
